@@ -1,5 +1,5 @@
 {
-  "editor.formatOnSave": true,
-  "workbench.colorTheme": "Default Dark+",
-  "workbench.iconTheme": "vs-seti"
+  "editor.formatOnSave": true
+  // "workbench.colorTheme": "Default Dark+",
+  // "workbench.iconTheme": "vs-seti"
 }
