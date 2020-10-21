@@ -1,5 +1,11 @@
 {
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
+  "files.exclude": {
+    "tmp": true
+  },
+  "search.exclude": {
+    "tmp": true
+  }
   // "workbench.colorTheme": "Default Dark+",
   // "workbench.iconTheme": "vs-seti"
 }
