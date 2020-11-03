@@ -6,7 +6,7 @@ VS Code には 統合ターミナル と呼ばれるターミナル機能が付�
 
 ![](switch_panel_to_terminal.png)
 
-パネルが開かれていない場合には、ターミナルを表示/非表示を切り替えるキーボードショートカット macOS: `` Cmd+` ``、Windows/Linux: `` Ctrl+`  ``　を使って開くことができます。
+パネルが開かれていない場合には、ターミナルを表示/非表示を切り替えるキーボードショートカット macOS: `Cmd+@` `` Cmd+` ``、Windows/Linux: `Ctrl+@ `　を使って開くことができます（英語キーボードの場合、macOS: `` Cmd+` ``、Windows/Linux `` Ctrl+` ``）。
 もしくは、パネルの表示/非表示を切り替えるキーボードショートカット macOS: `Cmd+j`、Windows/Linux: `Ctrl+j` を覚えていると、パネルが使いやすくなります。
 
 Windows では PowerShell 、macOS、Linux では bash が使われます（この利用するシェルは設定の "Terminal>Integrated>Shell:(OS)" から変更できます）。
@@ -35,12 +35,13 @@ $ cd topic9
 ```
 
 topic9 のフォルダーには、task.zip という ZIP ファイルが置かれています。
-以下のコマンドをターミナル上で実行し、フィアルを解凍してください。
+以下のコマンドをターミナル上で実行し、ファイルを解凍してください。
 
-Windows の場合
+Windows(PowerShell) の場合
 
 ```
-> unzip task.zip
+> Expand-Archive task.zip
+> dir task
 ```
 
 macOS、Linux の場合
@@ -49,5 +50,11 @@ macOS、Linux の場合
 $ unzip task.zip
 ```
 
-解凍時に、ターミナル上にファイルパスが表示されます。
+macOS、Linux の場合、解凍時にターミナル上にファイルパスが表示されます。
+Power Shell の場合、解凍時にはファイルのリストは表示されないため、解凍したファイルを格納したフォルダーのファイルリストを表示するコマンド`dir task`を実行してください。
+
 ターミナル上に表示されたファイルパスをクリックして、そのファイルをエディターで表示してください。
+
+**Windows での実行**
+
+![](windows_unzip.png)
