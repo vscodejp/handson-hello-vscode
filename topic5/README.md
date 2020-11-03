@@ -37,10 +37,14 @@ VS Code では、コードやテキストを検査して、コンパイルエラ
 
 ![](quickfix_icon.png)
 
+![](apply_quickfix_from_popup.gif)
+
 問題パネルでは、アイコンにマウスポインタを当てた時に 💡 アイコンが表示されます。
 
 💡 アイコンをクリックすると、クイックフィックスの内容のリストが表示されます。
 この中から選択すると、そのクイックフィックスが適用されます。
+
+![](apply_quickfix_from_problem_panel.gif)
 
 ### Advanced Tips キーボードショートカットを活用する
 
