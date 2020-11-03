@@ -14,16 +14,16 @@
 
 ## 事前に準備していただきたいこと
 
-以下の Topic 0.1、0.2 を実施して、Visual Studio Codeのインストールをお願いします。
+以下の Topic 0.1、0.2 を実施して、Visual Studio Code のインストールをお願いします。
 
-- [Topic 0.1 : VS Code のインストールしよう](./topic0.1)
+- [Topic 0.1 : VS Code のインストールしよう](./topic0.1/README.md)
   - やってもらうこと: VS Code をインストールして、表示言語を日本語に設定する
   - 扱うこと: インストール、日本語設定
   - ゴール: インストールが完了し、日本語設定ができていること
-- Topic 0.2 : Githubのリポジトリを VS Code で開こう（ページ準備中）
-  - やってもらうこと: このリポジトリのチェックアウトして、VS Codeで開く
+- Topic 0.2 : Github のリポジトリを VS Code で開こう（ページ準備中）
+  - やってもらうこと: このリポジトリのチェックアウトして、VS Code で開く
   - 扱うこと: フォルダーをワークスペースとして開く
-  - ゴール: リポジトリをVS Codeで開くことができること
+  - ゴール: リポジトリを VS Code で開くことができること
 
 ## 進め方
 
@@ -36,47 +36,47 @@
 
 ## コンテンツ
 
-- [Topic 0.1 : VS Code のインストールしよう](./topic0.1)
+- [Topic 0.1 : VS Code のインストールしよう](./topic0.1/README.md)
   - やってもらうこと: VS Code をインストールして、表示言語を日本語に設定する
   - 扱うこと: インストール、日本語設定
   - ゴール: インストールが完了し、日本語設定ができていること
-- Topic 0.2 : Githubのリポジトリを VS Code で開こう
-  - やってもらうこと: このリポジトリのチェックアウトして、VS Codeで開く
+- [Topic 0.2 : Github のリポジトリを VS Code で開こう](./topic0.2/README.md)
+  - やってもらうこと: このリポジトリのチェックアウトして、VS Code で開く
   - 扱うこと: フォルダーをワークスペースとして開く
-  - ゴール: リポジトリをVS Codeで開くことができること
-- Topic 1 : VS Code の画面と、ワークスペースを理解しよう
+  - ゴール: リポジトリを VS Code で開くことができること
+- [Topic 1 : VS Code の画面と、ワークスペースを理解しよう](./topic1/README.md)
   - やってもらうこと: git をチェックアウト、もしくは github から ZIP をダウンロードして解凍し、フォルダーをドラッグして、ワークスペースを開く
   - 扱うこと: 画面構成、ワークスペース、エディター、パネル
   - ゴール: フォルダーを開くことができること
-- [Topic 2 : Markdown を書いてみよう](./topic2)
+- [Topic 2 : Markdown を書いてみよう](./topic2/README.md)
   - やってもらうこと: エクスプローラータブでファイルを新規作成し、README.md を開いて編集し、ファイルを保存して、プレビューする
   - 扱うこと: エクスプローラータブ、ファイルの保存、プレビュー
   - ゴール: エクスプローラータブからファイルを開いて、編集ができること
-- Topic 3 : 検索して、ファイルを一気に置換しよう
+- [Topic 3 : 検索して、ファイルを一気に置換しよう](./topic3/README.md)
   - やってもらうこと: ファイル内置換を使って、
   - 扱うこと: ファイル内検索、検索ビュー
   - ゴール: ファイル内検索と、検索ビューを使って、一括置換ができること
-- Topic 4 : 拡張機能をインストールして、コマンドパレットから呼び出そう
-  - やってもらうこと: 拡張機能 [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) をインストールして、フォーマットを行う。[Markdown](https://marketplace.visualstudio.com/items?itemName=AlanWalk.markdown-toc)をインストールして、Table of Contents を追加する。[TOC Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf) をインストールして、PDF を出力する
+- [Topic 4 : 拡張機能をインストールして、コマンドパレットから呼び出そう](./topic4/README.md)
+  - やってもらうこと: 拡張機能 [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) をインストールして、フォーマットを行う。[Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)をインストールして、Table of Contents を追加する。[Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf) をインストールして、PDF を出力する
   - 扱うこと: 拡張機能のインストール、コマンドパレット、コマンド検索、ファイル検索、シンボル検索
   - ゴール: 拡張機能がインストールできること、コマンドパレットの呼び出し方がわかること
-- Topic 5 : 拡張機能をインストールして、Markdown をチェックさせよう
+- [Topic 5 : 拡張機能をインストールして、Markdown をチェックさせよう](./topic5/README.md)
   - やってもらうこと: 拡張機能 Markdown Lint と、Code Spell Checker をインストールして、リントエラーを修正する
   - 扱うこと: 問題パネル
   - ゴール: 目的のリントツールが実行できること、問題パネルが使えること
-- Topic 6 : Git でファイルをコミットしよう
+- [Topic 6 : Git でファイルをコミットしよう](./topic6/README.md)
   - やってもらうこと: Git のファイルコミットする、github アカウントを持っている場合、フォークして push する
   - 扱うこと: Git タブ、コミット、ブランチの作成、ブランチの変更
   - ゴール: ソースコントロールビューを使った変更差分の確認と、コミットができること。ステータスバーのブランチの変更ができるようになること。
-- Topic 7 : 自分好みにカスタマイズしよう
+- [Topic 7 : 自分好みにカスタマイズしよう](./topic7/README.md)
   - やってもらうこと: 保存した時に自動でフォーマットがかかるように設定する、好みのキーにフォーマットのコマンドを設定する
   - 扱うこと: キーバインド、ユーザ設定 UI、ワークスペース設定の概念
   - ゴール: UI でユーザ設定を変更できること
-- Topic 8 : スニペットで定型文を簡単に入力しよう
+- [Topic 8 : スニペットで定型文を簡単に入力しよう](./topic8/README.md)
   - やってもらうこと: 週報スニペットを作成してもらい、スニペットでテンプレートを作成する
   - 扱うこと: スニペットの作成、スニペットの使用
   - ゴール: スニペットを使うことができること
-- Topic 9 : ターミナルを活用しよう
+- [Topic 9 : ターミナルを活用しよう](./topic9/README.md)
   - やってもらうこと: ターミナルから、ZIP ファイルを解凍する
   - 扱うこと: ターミナル
   - ゴール: ターミナルを操作できること
@@ -99,7 +99,7 @@
 - キーボードショートカットを紹介する場合には、Windows: Ctrl+P、macOS: Cmd+P、Linux: Ctrl+P と、Windows、macOS、Linux の各環境のキーバインドを書くようにする。
 - Prettier でフォーマットする（自動でフォーマットされます）
 
-カスタマイズに影響を受けずに、このリポジトリを開くには以下のようにcliで実行します。
+カスタマイズに影響を受けずに、このリポジトリを開くには以下のように cli で実行します。
 
 ```
 code --extensions-dir ./tmp/extensions --user-data-dir ./tmp/user .
