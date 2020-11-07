@@ -52,7 +52,7 @@ VS Code では、コードやテキストを検査して、コンパイルエラ
 
 - 次の問題へ移動 F8
 - 前の問題へ移動 Shift + F8
-- カーするのクイックフィックスを表示 macOS: Cmd+. Windows/Linux: Ctrl+.
+- カーソルの位置のクイックフィックスを表示 macOS: Cmd+. Windows・Linux: Ctrl+.
 
 ## 課題 1
 

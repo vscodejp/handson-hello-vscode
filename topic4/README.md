@@ -5,7 +5,7 @@
 VS Code では、画面を操作する他に、コマンドパレットという、コマンドを呼び出して実行する機能があります。
 おおよそほとんどの VS Code の機能はコマンドとして登録されており、このコマンドパレットを通じて実行できます。
 
-コマンドパレットを呼び出すには、F1 キー、もしくは、macOS: Cmd+Shift+P、Windows/Linux: Ctrl+Shift+P を押します。
+コマンドパレットを呼び出すには、F1 キー、もしくは、macOS: Cmd+Shift+P、Windows・Linux: Ctrl+Shift+P を押します。
 
 ![](command_palette.png)
 
