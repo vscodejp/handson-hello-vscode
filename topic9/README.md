@@ -67,6 +67,6 @@ Power Shell の場合、解凍時にはファイルのリストは表示され�
 topic9 フォルダーにある try-code-command.md を code コマンドの引数に設定して、エディターで開いてください。
 
 ```
-$ cd topic8
+$ cd topic9
 $ code try-code-command.md
 ```
