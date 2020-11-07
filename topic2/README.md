@@ -14,7 +14,7 @@
 
 保存するには、以下の複数の方法があります。
 
-- Windows: Ctrl+S、macOS: Cmd+S、Linux: Ctrl+S をクリック
+- macOS: Cmd+S、Windows・Linux: Ctrl+S をクリック
 - エクスプローラータブの開いているエディターから、"全て保存"アイコンをクリック
 
 ![全て保存](all_save.png)
@@ -32,7 +32,7 @@ VS Code ではマークダウンをプレビューする機能がついていま
 エディターを閉じるには、複数の方ホがあります。
 
 - エディターの上部のタブのファイル名の右側に表示される ✕ 印をクリックします。カーソルを近づけると、✕ 印が表示されます。
-- Windows: Ctrl+W、macOS: Cmd+W、Linux: Ctrl+W を押します。
+- macOS: Cmd+W、Windows・Linux: Ctrl+W を押します。
 
 ## 課題 1
 

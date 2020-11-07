@@ -96,7 +96,7 @@
     - Icon Theme: VS Seti
     - Product Icon Theme: Default
   - Display Language : ja
-- キーボードショートカットを紹介する場合には、Windows: Ctrl+P、macOS: Cmd+P、Linux: Ctrl+P と、Windows、macOS、Linux の各環境のキーバインドを書くようにする。
+- キーボードショートカットを紹介する場合には、macOS: Cmd+P、Windows・Linux: Ctrl+P と、Windows、macOS、Linux の各環境のキーバインドを書くようにする。
 - Prettier でフォーマットする（自動でフォーマットされます）
 
 カスタマイズに影響を受けずに、このリポジトリを開くには以下のように cli で実行します。

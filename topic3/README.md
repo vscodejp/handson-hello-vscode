@@ -57,7 +57,7 @@
 
 ## クイック検索
 
-エディター画面内で、macOS: Cmd+F、Windows/Linux: Ctrl+F を押すとファイル内を検索したり、置換できるクイック検索が利用できます。
+エディター画面内で、macOS: Cmd+F、Windows・Linux: Ctrl+F を押すとファイル内を検索したり、置換できるクイック検索が利用できます。
 
 ![](quick_search.png)
 
