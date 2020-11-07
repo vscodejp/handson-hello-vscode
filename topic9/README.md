@@ -9,7 +9,7 @@ VS Code には 統合ターミナル と呼ばれるターミナル機能が付�
 パネルが開かれていない場合には、ターミナルを表示/非表示を切り替えるキーボードショートカット macOS: `Cmd+@` `` Cmd+` ``、Windows/Linux: `Ctrl+@ `　を使って開くことができます（英語キーボードの場合、macOS: `` Cmd+` ``、Windows/Linux `` Ctrl+` ``）。
 もしくは、パネルの表示/非表示を切り替えるキーボードショートカット macOS: `Cmd+j`、Windows/Linux: `Ctrl+j` を覚えていると、パネルが使いやすくなります。
 
-Windows では PowerShell 、macOS、Linux では bash が使われます（この利用するシェルは設定の "Terminal>Integrated>Shell:(OS)" から変更できます）。
+Windows では PowerShell 、macOS・Linux では bash が使われます（この利用するシェルは設定の "Terminal>Integrated>Shell:(OS)" から変更できます）。
 
 ターミナルの中では、他のターミナルと同様に、様々な CLI のツールを使うことができます。
 コンパイラをターミナルで実行する時、コンパイルエラーの箇所のファイルパスと行数をコンパイラが出力することがあります。
