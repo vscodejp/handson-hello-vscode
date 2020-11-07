@@ -12,9 +12,7 @@ Gitをインストールしていない方は以下の手順でインストー�
 ![](Git_for_Windows.PNG)
 
 ### Mac環境
-[Download for macOS](https://sourceforge.net/projects/git-osx-installer/)からインストーラーをダウンロードして実行する。
-
-![](Git_for_mac.PNG)
+gitコマンドを初めて実行したときにインストールが行われます
 
 どちらの環境でもすべてデフォルトの設定で問題ありません。
 
@@ -81,8 +79,10 @@ VSCodeの上記メニューバーで「ファイル」→「フォルダを開�
 
 Windowsの場合、以下のような画面が出るので先程Cloneしたフォルダである`handson-hello-vscode`を選択します。
 
-![](open_foruda.PNG)
+![](open_foruda.png)
 
 フォルダを開くと、以下のように`handson-hello-vscode`のリポジトリを VS Code で開くことができました。
+
+画像のように左側にファイルツリーが表示されていれば成功です。
 
 ![](open.PNG)
