@@ -66,7 +66,7 @@ Prettier を使って、Topic 2 で作成したマークダウンをフォーマ
 
 ## 課題 2
 
-マークダウンを編集に役立つ機能を多く持っている拡張機能 "Markdown All in One" があります。
+マークダウンの編集に役立つ機能を多く持っている拡張機能 "Markdown All in One" があります。
 
 ![](markdown_all_in_one.png)
 
