@@ -118,5 +118,6 @@
 - CURRENT_SECOND : 現在の秒
 
 上記以外にも定義済みの変数があります。うまく使うとより効果的なスニペットが定義できるでしょう。  
-もっと詳しく知りたい方はこちらの公式ドキュメントを参照してみましょう！  
-https://code.visualstudio.com/docs/editor/userdefinedsnippets#_variables
+もっと詳しく知りたい方はこちらの公式ドキュメントを参照してみましょう！
+
+> https://code.visualstudio.com/docs/editor/userdefinedsnippets#_variables
