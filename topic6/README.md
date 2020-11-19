@@ -47,13 +47,13 @@ Push、Pull をそれぞれ行う場合には、コマンドパレットやオ�
 
 ![](other_command.png)
 
-## 課題 1 Github からソースコードをクローンしよう
+## 課題 1 GitHub からソースコードをクローンしよう
 
-Github アカウントを持っている場合、ハンズオンリポジトリをフォーク（Github 上で右上の Fork をクリック）して、自分のアカウントのリポジトリを VS Code で開いてください。
+GitHub アカウントを持っている場合、ハンズオンリポジトリをフォーク（GitHub 上で右上の Fork をクリック）して、自分のアカウントのリポジトリを VS Code で開いてください。
 
 ハンズオンのリポジトリ: https://github.com/vscodejp/handson-hello-vscode
 
-ヒント アカウント hoge の場合、Github からクローンするには、以下のコマンドを実行します。その後、VS Code で開きます。
+ヒント アカウント hoge の場合、GitHub からクローンするには、以下のコマンドを実行します。その後、VS Code で開きます。
 
 ```
 git clone https://github.com/<UserName>/handson-hello-vscode

@@ -1,7 +1,7 @@
-# Githubのリポジトリを VS Code で開こう
+# GitHubのリポジトリを VS Code で開こう
 
 ## このトピックでの目標
-GithubのリポジトリをクローンしてVSCodeで表示すること
+GitHubのリポジトリをクローンしてVSCodeで表示すること
 
 ## Gitを使う準備をする
 Gitをインストールしていない方は以下の手順でインストールを行ってください。
@@ -39,13 +39,13 @@ git --version
 
 では、GitHubからリポジトリをCloneしてみましょう。
 
-### Step1: クローンするリポジトリのGithubページを開く
+### Step1: クローンするリポジトリのGitHubページを開く
 
 以下のページを開きます。
 
 [Hello VS Code ハンズオン 参加者向けガイド](https://github.com/vscodejp/handson-hello-vscode)
 
-Githubのページで緑色の「Code」と書かれている部分をクリックします。
+GitHubのページで緑色の「Code」と書かれている部分をクリックします。
 
 ![](Code.PNG)
 
