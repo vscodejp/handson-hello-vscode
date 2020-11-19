@@ -4,7 +4,7 @@ VS Code には 統合ターミナル と呼ばれるターミナル機能が付�
 デバッグ実行時のコマンド、タスクのコマンドなどはこのターミナルを使って実行されます。
 利用するには、パネルのタブを "ターミナル" に切り替えます。
 
-![](switch_panel_to_terminal.png)
+![](img/switch_panel_to_terminal.png)
 
 パネルが開かれていない場合には、ターミナルを表示/非表示を切り替えるキーボードショートカット macOS: `Cmd+@` `` Cmd+` ``、Windows・Linux: `Ctrl+@ `　を使って開くことができます（英語キーボードの場合、macOS: `` Cmd+` ``、Windows・Linux `` Ctrl+` ``）。
 もしくは、パネルの表示/非表示を切り替えるキーボードショートカット macOS: `Cmd+j`、Windows・Linux: `Ctrl+j` を覚えていると、パネルが使いやすくなります。
@@ -15,11 +15,11 @@ Windows では PowerShell 、macOS・Linux では bash が使われます（こ�
 コンパイラをターミナルで実行する時、コンパイルエラーの箇所のファイルパスと行数をコンパイラが出力することがあります。
 VS Code では、いくつかのパターンでは出力のファイルパスや行数を認識し、macOS: Cmd を押しながら、Windows・Linux: Ctrl を押しながらマウスカーソルを当てると下線がつき、さらにボタンを押しながらクリックすると、そのファイルと行数をエディターで瞬時に開いてくれます。
 
-![](compile_error.png)
+![](img/compile_error.png)
 
 また、ターミナルは同時に複数開くこともできます。
 
-![](terminal_ui.png)
+![](img/terminal_ui.png)
 
 - (1) ターミナルの切り替え
 - (2) 新しいターミナルを開く
@@ -60,7 +60,7 @@ Power Shell の場合、解凍時にはファイルのリストは表示され�
 
 **Windows での実行**
 
-![](windows_unzip.png)
+![](img/windows_unzip.png)
 
 ## 課題 2
 

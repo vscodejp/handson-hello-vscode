@@ -5,11 +5,11 @@
 VS Code では、コードやテキストを検査して、コンパイルエラーなどの問題を表示する機能があります。
 問題パネルや、ソースコード中の下線で表示され、ソースコード中ではその箇所にマウスカーソルを当てるとポップアップで問題の内容が表示されます。
 
-![](error_in_go.png)
+![](img/error_in_go.png)
 
 検出された問題には 3 段階のレベル「エラー（赤）」「警告（緑）」「情報（青）」があります。このレベルはアイコンと色で表現されます。
 
-![](problem_panel.png)
+![](img/problem_panel.png)
 
 ステータスバー中には問題の数が表示(1)され、左から「エラーの数」「警告の数」「情報の数」になっています。
 また、(1)をクリックすると、問題パネル(2)が表示されます。
@@ -22,7 +22,7 @@ VS Code では、コードやテキストを検査して、コンパイルエラ
 
 汎用的に英単語のスペルミスをチェックする拡張機能 Code Spell Checker があります。
 
-![](code_spell_checker.png)
+![](img/code_spell_checker.png)
 
 この拡張機能を使うと、開いているファイルに限り英単語のスペルミスがチェックされます。
 
@@ -35,16 +35,16 @@ VS Code では、コードやテキストを検査して、コンパイルエラ
 
 クイックフィックスが利用できる場合、カーソルの近くに 💡 アイコンが表示されたり、問題の場所にマウスポインタを当てた時に表示されるポップアップにクイックフィックスのボタンが表示されます。
 
-![](quickfix_icon.png)
+![](img/quickfix_icon.png)
 
-![](apply_quickfix_from_popup.gif)
+![](img/apply_quickfix_from_popup.gif)
 
 問題パネルでは、アイコンにマウスポインタを当てた時に 💡 アイコンが表示されます。
 
 💡 アイコンをクリックすると、クイックフィックスの内容のリストが表示されます。
 この中から選択すると、そのクイックフィックスが適用されます。
 
-![](apply_quickfix_from_problem_panel.gif)
+![](img/apply_quickfix_from_problem_panel.gif)
 
 ### Advanced Tips キーボードショートカットを活用する
 
@@ -92,4 +92,4 @@ Code Spell Checker では、新しい単語をクイックフィックスから�
 なお、追加した単語はユーザ設定の "C Spell: User Words"に"quickfix" に追加されます。
 ユーザ設定の開き方については、Topic 7 を参照してください。
 
-![](settings_user_words.png)
+![](img/settings_user_words.png)

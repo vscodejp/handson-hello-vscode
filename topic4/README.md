@@ -7,7 +7,7 @@ VS Code では、画面を操作する他に、コマンドパレットという
 
 コマンドパレットを呼び出すには、F1 キー、もしくは、macOS: Cmd+Shift+P、Windows・Linux: Ctrl+Shift+P を押します。
 
-![](command_palette.png)
+![](img/command_palette.png)
 
 コマンドパレットでは、あいまい検索を行うことができます。
 コマンドを正確に覚えていなくても、単語を入力して絞り込み、選択することができます。
@@ -15,7 +15,7 @@ VS Code では、画面を操作する他に、コマンドパレットという
 
 **（例）git の stash 機能の名前を忘れたため、「退避」と入力した場合**
 
-![](stash.png)
+![](img/stash.png)
 
 ## 拡張機能をインストールしよう
 
@@ -26,7 +26,7 @@ Visual Studio Code Marketplace には数多くの拡張機能が公開されて�
 
 マークダウンテキストをフォーマット（整形）することができる拡張機能 Prettier をインストールする手順は以下のとおりです。
 
-![](install_prettier.png)
+![](img/install_prettier.png)
 
 - アクティビティーバーの拡張機能(1)をクリック
 - サイドバーのキーワード入力欄(2)に、"prettier"と入力
@@ -37,7 +37,7 @@ Visual Studio Code Marketplace には数多くの拡張機能が公開されて�
 インストール後は拡張機能の表示が以下のようになります。
 （サイドバー中には歯車マークが表示され、エディタ中の解説ページには"アンインストール"のボタンが登場します）
 
-![](prettier_installed.png)
+![](img/prettier_installed.png)
 
 Prettier は、VS Code の標準コマンド "ドキュメントのフォーマット(Format Document)" と連動します。
 マークダウンファイルでこのコマンドを実行すると、 Prettier を利用してドキュメントのフォーマットが実行されてます。
@@ -48,11 +48,11 @@ Prettier は、VS Code の標準コマンド "ドキュメントのフォーマ�
 
 インストールされている拡張機能の一覧は、アクティビティーバーを拡張機能を選択した後に、キーワードを入力していない時にサイドバーに表示されます。
 
-![](installed_extensions.png)
+![](img/installed_extensions.png)
 
 拡張機能を削除するには、削除したい拡張機能の右側の歯車アイコンをクリックし、"アンインストール"をクリックします。
 
-![](uninstall.png)
+![](img/uninstall.png)
 
 ## 課題 1
 
@@ -66,19 +66,19 @@ Prettier を使って、Topic 2 で作成したマークダウンをフォーマ
 
 マークダウンの編集に役立つ機能を多く持っている拡張機能 "Markdown All in One" があります。
 
-![](markdown_all_in_one.png)
+![](img/markdown_all_in_one.png)
 
 この拡張機能をインストールすると、"Markdown All in One: 目次(TOC)の作成（Create Table of Contents）" というコマンドがコマンドパレットに追加されます。
 
 topic4/README.md を開いて、このコマンドを実行して、目次を追加してください。
 
-![](toc_inserted.png)
+![](img/toc_inserted.png)
 
 ## 課題 3
 
 マークダウンを PDF に変換する拡張機能 "Markdown PDF" があります。
 
-![](markdown_pdf.png)
+![](img/markdown_pdf.png)
 
 この拡張機能をインストールし、topic4/README.md を PDF に変換してください。
 
@@ -89,8 +89,8 @@ topic4/README.md を開いて、このコマンドを実行して、目次を追
 VS Code の標準機能では PDF を表示することはできません。
 エクスプローラービューでは、ファイルを右クリックして、macOS: "Finder で開く"、Windows: "Explorer で開く"、Linux: "このアイテムをフォルダーで開く" を選択すると、そのファイルのフォルダーを表示することができます。
 
-![](pdf_in_explorer_view.png)
+![](img/pdf_in_explorer_view.png)
 
 ここから Adobe Reader など他のソフトウェアを使って PDF を表示してみてください。
 
-![](pdf.png)
+![](img/pdf.png)
