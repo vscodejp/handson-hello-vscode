@@ -44,11 +44,12 @@ git --version
 
 ### Step1: クローンするリポジトリの GitHub ページを開く
 
-任意の Web ブラウザで、以下のページにアクセスします。
+ ブラウザで、以下のページにアクセスします。
 
 - [Hello VS Code ハンズオン 参加者向けガイド](https://github.com/vscodejp/handson-hello-vscode) 
 
 GitHub のページで緑色の `Code` と表示されているボタンを**選択**します。
+
 
 ![](Code.PNG)
 
