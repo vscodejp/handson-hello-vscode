@@ -1,5 +1,9 @@
 # Git でファイルをコミットしよう
 
+本 Topic は Git について理解されている方向けの説明になっております。
+
+Git を使われていないようであれば、この Topic 6 はスキップして、Topic 7 に進んでください。
+
 ## Git の状態を読み取ろう
 
 - (1) 現在のブランチ（図は master）
@@ -56,7 +60,7 @@ Github アカウントを持っている場合、ハンズオンリポジトリ�
 ヒント アカウント hoge の場合、Github からクローンするには、以下のコマンドを実行します。その後、VS Code で開きます。
 
 ```
-git clone https://github.com/<UserName>/handson-hello-vscode
+git clone https://github.com/hoge/handson-hello-vscode
 cd handson-hello-vscode
 code .
 ```
