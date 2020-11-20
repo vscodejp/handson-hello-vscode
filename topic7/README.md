@@ -108,4 +108,9 @@ markdown ファイルを保存したときに自動フォーマットがかか�
 - 設定するコマンド
   editor.action.formatDocument
 
-注意: フォーマットには複数のコマンド `ドキュメントのフォーマット...`（後ろに...があるもの）、`editor.action.formatDocument.none`（コマンド名の後ろに`none`がついたもの）がありますが、通常のフォーマットのコマンドは、`ドキュメントのフォーマット` `document.action.formatDocument` になります。
+注意
+
+フォーマットのコマンドは以下の通り複数ありますが、通常のフォーマットのコマンドは、`editor.action.formatDocument` になります
+- `ドキュメントのフォーマット editor.action.formatDocument`（通常のフォーマットのコマンド）
+- `ドキュメントのフォーマット editor.action.formatDocument.none`（コマンド名の後ろに`none`がついている）
+- `ドキュメントのフォーマット... editor.action.formatDocument.multiple`（後ろに`...`がついている）
