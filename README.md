@@ -2,7 +2,7 @@
 
 ## VS Code Meetup Book 1 リソース
 
-- [1.9.節 課題 1 利用ファイルのダウンロード task.zip](./topic9/task.zip)
+- [1.9.節 課題 1 利用ファイルのダウンロード task.zip](https://github.com/vscodejp/handson-hello-vscode/raw/master/topic9/task.zip)
 
 ## ハンズオンのターゲットレベル
 
