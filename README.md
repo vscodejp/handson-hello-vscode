@@ -1,4 +1,8 @@
-# Hello VS Code ハンズオン 参加者向けガイド
+# Hello VS Code ハンズオンテキスト
+
+## VS Code Meetup Book 1 リソース
+
+- [1.9.節 課題 1 利用ファイルのダウンロード task.zip](./topic9/task.zip)
 
 ## ハンズオンのターゲットレベル
 
